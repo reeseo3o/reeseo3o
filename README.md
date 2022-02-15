@@ -22,13 +22,10 @@
   
 </div>
 
-
-
-
-
-
 <div align=center>  
 📝MY TIL
+</div>
+<div align=center>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <a href="링크"><img src="https://img.shields.io/badge/tistory-F9F999?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/notion-FF9999?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
