@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello_Yeahha's_World!&fontSize=90&fontColor=#ff0000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fec287&height=300&section=header&text=Yeahhaaa!&fontSize=90&fontColor=ffffff)
 <!--
 **yeahhaaa/yeahhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
