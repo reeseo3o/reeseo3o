@@ -1,21 +1,42 @@
+<div align=center>  
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF9977&height=90&section=header&text=Hello!%20Yeahhaaa&fontSize=40&fontColor=FFFFFF)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233F3F3F&title_bg=%23FF7878&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+<div align=center>  
+<p>
 🌝I've Used
+  </p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
 </div>
-<div>
+
+
+
+
+
+
+<div align=center>  
 📝MY TIL
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <a href="링크"><img src="https://img.shields.io/badge/tistory-F9F999?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/notion-FF9999?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9988&height=120&section=header&text=Hello%20Yeahhaaa!&fontSize=50&fontColor=FFFFFF)
+
+<div align=center>
+  
+![jerry_giphy](https://user-images.githubusercontent.com/99670118/154081090-4860ec49-4a72-405a-956b-2d1a91f19cf2.gif)
+</div>
 
