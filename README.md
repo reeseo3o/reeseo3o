@@ -7,7 +7,7 @@
 
 <div align=center>  
 <p>
-🌝I've Used
+🌞 I've Used
   </p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -23,9 +23,9 @@
 </div>
 
 <div align=center>  
-📝MY TIL
-</div>
-<div align=center>
+<p>
+🌝 MY TIL
+</p>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://not-yaeji.tistory.com"><img src="https://img.shields.io/badge/tistory-F9F999?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://www.notion.so/HOME-00f50e734a8b477fb72928cbf6c7cf94"><img src="https://img.shields.io/badge/notion-FF9999?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
