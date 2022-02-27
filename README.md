@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhaaa&layout=compact&theme=radical)](https://github.com/yeahhaaa/yeahhaaa)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhaaa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhaaa&show_icons=true&theme=radical)(https://github.com/yeahhaaa/yeahhaaa)
   
 </div>
 
