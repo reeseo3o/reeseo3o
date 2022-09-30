@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhaaa&layout=compact&theme=radical)](https://github.com/yeahhaaa/yeahhaaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeseo3o&layout=compact&theme=radical)](https://github.com/reeseo3o/reeseo3o)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhaaa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeseo3oshow_icons=true&theme=radical)
   
 </div>
 
