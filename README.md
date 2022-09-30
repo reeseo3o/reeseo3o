@@ -6,7 +6,7 @@
 
 <div align=center>  
 <p>
-🌞 I've Used
+ I've Used
   </p>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -16,15 +16,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeseo3o&layout=compact&theme=radical)](https://github.com/reeseo3o/reeseo3o)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeseo3oshow_icons=true&theme=radical)
-  
 </div>
 
 <div align=center>  
 <p>
-🌝 MY TIL
+ MY TIL
 </p>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://not-yaeji.tistory.com"><img src="https://img.shields.io/badge/tistory-F9F999?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://yeahhaaa.notion.site/HOME-00f50e734a8b477fb72928cbf6c7cf94"><img src="https://img.shields.io/badge/notion-FF9999?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 </div>
