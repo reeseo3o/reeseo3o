@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=reeseo3o&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31md2uxrq7lehfcrkam7vccdckbu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31md2uxrq7lehfcrkam7vccdckbu&redirect=true)
+
 ![jerry_giphy](https://user-images.githubusercontent.com/99670118/154081090-4860ec49-4a72-405a-956b-2d1a91f19cf2.gif)
 
 [![](https://visitcount.itsvg.in/api?id=reese&icon=4&color=8)](https://visitcount.itsvg.in)
