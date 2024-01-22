@@ -7,7 +7,7 @@
 #### Now Playing 
 <img src="https://github-profile-apple-music.web.app/api/v1/users/U0RftaSOvE4Y57jTyR1h/recent/played/tracks?template=template_1_3" alt="Recent Played Tracks" style="width:40%;">
 
-![](https://github-readme-stats.vercel.app/api?username=reeseo3o&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
 ![jerry_giphy](https://user-images.githubusercontent.com/99670118/154081090-4860ec49-4a72-405a-956b-2d1a91f19cf2.gif)
