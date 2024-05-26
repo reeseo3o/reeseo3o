@@ -5,9 +5,6 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) 
 
 
-#### Now Playing 
-<img src="https://github-profile-apple-music.web.app/api/v1/users/W1gcXnnFrlSfFhad015Y/recent/played/tracks?template=template_1_3" alt="Recent Played Tracks" style="width:40%;">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
