@@ -5,9 +5,6 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-
-
 ![jerry_giphy](https://user-images.githubusercontent.com/99670118/154081090-4860ec49-4a72-405a-956b-2d1a91f19cf2.gif)
 
 [![](https://visitcount.itsvg.in/api?id=reese&icon=4&color=8)](https://visitcount.itsvg.in)
